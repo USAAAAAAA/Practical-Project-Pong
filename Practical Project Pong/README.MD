@@ -57,7 +57,6 @@ This is a minimalistic two-player console game that demonstrates object-oriented
 - Handles collision with field borders and rackets
 - Supports random trajectory on reset (can be extended)
 
----
 
-## 📸 Screenshots
+
 
